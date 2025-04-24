@@ -5,8 +5,8 @@ z = float(31)  # z will be 3.0
 print(x,y,z)
 
 #done
-# git config --global user.email "ganeshmogal35@gmail.com"
-#   git config --global user.name "Andromeda@5454"
+# git config --global user.email ""
+#   git config --global user.name "123444"
 # OutPut-
 # PS C:\Users\GaneshMogal\Desktop\Python Pratices> python Casting.py
 # 3 3 31.0

@@ -25,3 +25,6 @@ print("4. not b → " + str(not b))  # True
 # 2. a or b → True
 # 3. not a → False
 # 4. not b → False
+
+
+

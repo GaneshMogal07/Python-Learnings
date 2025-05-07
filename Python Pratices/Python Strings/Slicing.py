@@ -1,5 +1,5 @@
-# b = "Hello, World!"
-# print(b[:2])
+b = "Hello, World!"
+print(b[:2])
 
 # #this is slicing used for left saides .
 

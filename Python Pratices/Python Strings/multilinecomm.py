@@ -15,3 +15,7 @@ ut labore et dolore magna aliqua.
 
 a = "Hello, World!"
 print(a[0])
+
+
+# Output-
+# H

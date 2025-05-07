@@ -1,10 +1,10 @@
-# x = 5
-# y = 2.2
-# z = 1j
+x = 5
+y = 2.2
+z = 1j
 
-# print(type(x))
-# print(type(y))
-# print(type(z))
+print(type(x))
+print(type(y))
+print(type(z))
 
 
 # """
@@ -19,13 +19,13 @@
 
 # """INT-
 
-# x = 1
-# y = 35656222554887711
-# z = -3255522
+x = 1
+y = 35656222554887711
+z = -3255522
 
-# print(type(x))
-# print(type(y))
-# print(type(z))
+print(type(x))
+print(type(y))
+print(type(z))
 
 
 # Output-PS 
@@ -38,13 +38,13 @@
 
 # Float-
 
-# x = 1.4
-# y = 35.656222554887711
-# z = -32.55522
+x = 1.4
+y = 35.656222554887711
+z = -32.55522
 
-# print(type(x))
-# print(type(y))
-# print(type(z))
+print(type(x))
+print(type(y))
+print(type(z))
 
 
 
@@ -58,13 +58,13 @@
 
 #Complex-
 
-# x = 3+5j
-# y = 5j
-# z = -5j
+x = 3+5j
+y = 5j
+z = -5j
 
-# print(type(x))
-# print(type(y))
-# print(type(z))
+print(type(x))
+print(type(y))
+print(type(z))
 
 
 # Output-PS 
@@ -78,8 +78,8 @@
 
 # Random function-
 
-# import random
-# print(random.randrange(1,10))
+import random
+print(random.randrange(1,10))
 
 
 # Output-

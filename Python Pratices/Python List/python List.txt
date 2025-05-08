@@ -1,0 +1,53 @@
+List
+Lists are used to store multiple items in a single variable.
+
+Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
+
+Lists are created using square brackets:
+
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
+
+
+
+1. Tuple
+Ordered
+
+1.Immutable (cannot be changed after creation)
+2.Allows duplicate values
+3.Created using round brackets ()
+
+Example:
+ my_tuple = ("apple", "banana", "cherry")
+print(my_tuple)
+Output:
+('apple', 'banana', 'cherry')
+
+
+
+2.Set
+Unordered
+
+1.Unindexed
+2.No duplicate values allowed
+3.Created using curly braces {}
+
+Example:
+my_set = {"apple", "banana", "cherry", "apple"}
+print(my_set)
+
+
+
+
+3. Dictionary
+1.Used to store key-value pairs
+2.Ordered (Python 3.7+), Mutable
+3.Created using curly braces {} with colon : separating keys and values
+
+Example:
+my_dict = {
+    "name": "Ganesh",
+    "age": 25,
+    "city": "Pune"
+}
+print(my_dict)

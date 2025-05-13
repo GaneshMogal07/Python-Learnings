@@ -1,0 +1,24 @@
+Python Inheritance – Simple & Best Explanation
+Inheritance in Python is an Object-Oriented Programming concept where one class (child/derived class) inherits the properties and behaviors (methods) of another class (parent/base class).
+
+✅ Why Use Inheritance?
+Code Reusability – You don't have to write the same code again.
+Extensibility – You can extend existing functionality.
+Organization – Helps in creating logical class hierarchies.
+
+
+
+🧱 Basic Structure of Inheritance in Python :-
+
+class Parent:
+    def greet(self):
+        print("Hello from Parent class")
+
+class Child(Parent):  # Inheriting from Parent
+    def display(self):
+        print("This is Child class")
+
+# Creating object of Child
+c = Child()
+c.greet()     # Accessing method from Parent
+c.display()   # Accessing method from Child

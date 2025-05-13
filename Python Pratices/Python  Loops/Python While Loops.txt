@@ -1,0 +1,29 @@
+Python Loops
+Python has two primitive loop commands:
+1.while loops
+2.for loops
+
+
+ 1.while Loop
+📌 Definition:
+Repeats a block of code as long as the condition is True.
+
+✅ Syntax:
+while condition:
+    # code block
+
+2. for Loop
+📌 Definition:
+Used to iterate over a sequence like a list, tuple, string, or range.
+
+✅ Syntax:
+for variable in sequence:
+    # code block
+
+
+Bonus: Loop Control Statements
+1.break: Stop the loop.
+
+2.continue: Skip the current iteration.
+
+3.pass: Do nothing (placeholder).

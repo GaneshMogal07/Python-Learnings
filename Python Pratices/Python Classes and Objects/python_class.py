@@ -53,8 +53,10 @@ faculty name: ganesh
 faculty salary 30000.7'''
 
 
-# explanation-
 
+
+
+# explanation-
 # Simple Explanation:
 # Part	What It Does
 # class faculty:	Creates a new class named faculty. Think of this like a blueprint.
@@ -66,5 +68,8 @@ faculty salary 30000.7'''
 # a = faculty()	Creates a new object a of class faculty.
 # a.putdata()	Calls the function to ask user to enter data.
 # a.display()	Calls the function to show entered data.
+
+
+
 
  

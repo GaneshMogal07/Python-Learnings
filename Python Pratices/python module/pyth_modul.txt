@@ -1,0 +1,29 @@
+✅ What is a Python Module?
+A module in Python is simply a file containing Python code (usually ending in .py) that you can import and use in other Python files.
+
+Modules can contain:
+
+1.Functions
+
+2.Classes
+
+3.Variables
+
+4.Executable code
+
+✅ Why Use Modules?
+Code reusability
+
+Better organization
+
+Avoid repetition
+
+Easy to maintain and debug
+
+✅ Types of Modules in Python
+Built-in Modules: Pre-installed with Python
+
+User-defined Modules: Created by the user
+
+External Modules: Installed via pip (like NumPy, Pandas, etc.)
+

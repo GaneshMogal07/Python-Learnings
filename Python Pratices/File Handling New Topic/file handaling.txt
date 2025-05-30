@@ -1,0 +1,15 @@
+🔹 1. Python File Handling Overview :-
+      File handling allows you to create, read, write, and delete files using Python.
+
+
+| Mode  | Description                   |
+| ----- | ----------------------------- |
+| `'r'` | Read (default mode)           |
+| `'w'` | Write (overwrites file)       |
+| `'a'` | Append (adds to end)          |
+| `'x'` | Create (fails if file exists) |
+| `'b'` | Binary mode (e.g. `'rb'`)     |
+
+
+
+
